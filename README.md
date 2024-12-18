@@ -1,27 +1,35 @@
 <h1 align="center">Hi 👋, I'm Luca Martorelli</h1>
-<h3 align="center">A passionate developer from Italy</h3>
 
-![238353480-219bcc70-f5dc-466b-9a60-29653d8e8433](https://github.com/MartorelliLuca/MartorelliLuca/assets/92364829/e0a79ed4-3e8b-463a-88cb-ca238541c0ad)
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martorelliluca&label=Profile%20views&color=0e75b6&style=flat" alt="martorelliluca" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martorelliluca" alt="martorelliluca" /></a> </p>
-
-- 🔭 I’m currently studying for my first degree in **Tor Vergata**
-
-- 📫 How to reach me **lucam0109@gmail.com**
+- 🎓 Bachelor's degree in Computer Engineering from **Tor Vergata University**
+- 🔭 Master’s student in Software Engineering in **Tor Vergata University**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
+&nbsp;- 📫 Email: [lucam0109@gmail.com](mailto:lucam0109@gmail.com)<br>
+&nbsp;- 🔗 Linkedin: [Luca Martorelli](https://www.linkedin.com/in/luca-martorelli/) 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martorelliluca&show_icons=true&locale=en&layout=compact" alt="martorelliluca" /></p>
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F20?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martorelliluca&show_icons=true&locale=en" alt="martorelliluca" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martorelliluca&" alt="martorelliluca" /></p>
-
+<div style="display: flex; justify-content: start; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=martorelliluca&show_icons=true&locale=en&layout=compact&theme=dark&hide" alt="martorelliluca" />
+  <img src="https://komarev.com/ghpvc/?username=martorelliluca&label=Profile%20views&color=0e75b6&style=flat" alt="martorelliluca" />
+</div>
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MartorelliLuca&theme=dark" alt="martorelliluca" />
+  <img src="https://github-readme-stats.vercel.app/api?username=martorelliluca&show_icons=true&locale=en&theme=dark&hide" alt="martorelliluca" />
+</div>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martorelliluca" alt="martorelliluca" /></a> </p>  -->
