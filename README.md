@@ -29,7 +29,7 @@
   <img src="https://komarev.com/ghpvc/?username=martorelliluca&label=Profile%20views&color=0e75b6&style=flat" alt="martorelliluca" />
 </div>
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martorelliluca&" alt="martorelliluca" />
+  <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=martorelliluca&" alt="martorelliluca" /-->
   <img src="https://github-readme-stats.vercel.app/api?username=martorelliluca&show_icons=true&locale=en&theme=dark&hide" alt="martorelliluca" />
 </div>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martorelliluca" alt="martorelliluca" /></a> </p>  -->
